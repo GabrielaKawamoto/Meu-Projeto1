@@ -1,0 +1,5 @@
+1 - GitBash no pesquisar 
+2 - Iniciar um repositório Git no GitBash
+3 - Adicionar Modificações no Status do Git
+4 - Criar o Primeiro Commit 
+5 - local: C:/Users/Admin/Desktop/Git - Aula/Frases.txt
