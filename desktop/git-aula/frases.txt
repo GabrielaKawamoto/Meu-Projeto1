@@ -3,3 +3,7 @@
 3 - Adicionar Modificações no Status do Git
 4 - Criar o Primeiro Commit 
 5 - local: C:/Users/Admin/Desktop/Git - Aula/Frases.txt
+6 - git init
+7 - git status 
+8 - git add, git rm --cached, git restore
+9 - git commit -m "initial commit"
