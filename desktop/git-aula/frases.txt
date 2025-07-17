@@ -3,3 +3,4 @@
 3 - Adicionar Modificações no Status do Git
 4 - Criar o Primeiro Commit 
 5 - local: C:/Users/Admin/Desktop/Git - Aula/Frases.txt
+6 - sempre verificar com Git Status
