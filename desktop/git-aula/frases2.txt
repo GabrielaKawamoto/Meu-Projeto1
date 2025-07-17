@@ -1,0 +1,5 @@
+git checkout = navegar entre os commits 
+voltar no master = git checkout master 
+git pull = traz alterações do repositório remoto (github) para o local (gibash)
+git push = envia alterações do repositório local (gitbash) para o remoto (github)
+git log = mostra todos os commits que tenho no projeto
