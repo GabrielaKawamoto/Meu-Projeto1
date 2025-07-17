@@ -1,0 +1,2 @@
+Git Clone 
+Para vir ao Github.dev (página onde posso editar o projeto do remoto), teclar o PONTO FINAL na página do Github
