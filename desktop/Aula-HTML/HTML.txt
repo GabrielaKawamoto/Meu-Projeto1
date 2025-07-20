@@ -1,0 +1,17 @@
+1-HTML = Hyper Text Markup Language (Linguagem de Marcação de Texto)
+2-Não é uma linguagem de programação, mas são "regras" da linguagem. Como Tags, que são Marcações, Links para outros textos, imagens, sons e vídeos, assim como arquivos de extensão, com terminação: HTML.
+3-Extistem os Comentários, que utilizamos para ignorar certas partes do texto.
+4-site:Frontend Editor
+5-Tag: tem que ter uma abertura, um fechamento, e pode ter ou não um conteúdo, elementos e tributos.
+6-Título: <h1>Título</h1> 
+7-Existem Tags vazias, ou seja, sem conteúdos, só com atributos: <br> 
+8-<p> = parágrafo <br> = quebra de linha 
+9-O fluxo do HTML funciona baseado em Blocos de texto, exceto algumas tags, de links, por exemplo, que são inline.
+10-<em>texto</em> enfase 
+11-<strong>texto</strong> negrito
+12-Atributos booleanos, não precisam de conteúdos, são vazias, e podem ser verdadeiras/falsas
+13-Atributos Globais, são atributos comuns a todos os elementos HTML. Podem ser usados em todos os elementos.
+14-Id:Identificadores. <div Id = "nome"></div> Não pode repetir o mesmo nome na mesma página.
+15-Class:Classificadores. <div class="produto tal">camiseta</div>
+16-Data:permite por dados. <div data-qualquer-coisa="1234"></div>
+17-Style: <div style="color:blue;">escrita</div> 
